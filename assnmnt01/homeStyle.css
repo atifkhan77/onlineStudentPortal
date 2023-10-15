@@ -1,0 +1,100 @@
+body{
+    background-color: #8AC6FF;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: top right;
+}header{
+    text-align-last: center;
+    justify-content: space-between;
+}.navbar{
+    height:120px;
+    background-color:#0F1111;
+  
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+
+}.logo{
+    display:flex;
+    align-items: center;
+}.i{
+    
+    border-radius:50%; 
+}.headerLu{
+    list-style: none;
+    display: flex;
+  
+   
+}
+.headerLi{
+    margin-left: 15%;
+   
+}.headerLi:hover{
+    scale: 0.95;
+}
+.Login{
+    font-size: large;
+    width:150px;
+    height:45px; 
+    margin-right:7px;
+    border-radius: 8px;
+    background-color: #8AC6FF;
+   
+ }
+ .Sign{
+    font-size: large;
+     width:200px;
+     height:45px;  
+     border-radius: 8px;
+     background-color: #8AC6FF;
+     
+ }
+ button:hover{
+    
+    background-color: #1B9CFC;
+    scale: 0.92;
+ }
+ .icons ul li a{
+    text-decoration: none;
+    font-size:18px;
+    font-weight: 500;
+    color:#8AC6FF
+}
+ .auth{
+     display: flex;
+     width:25%;
+ 
+ }.icons ul li a{
+    text-decoration: none;
+    font-size:18px;
+    font-weight: 500;
+    color:#8AC6FF
+}
+h1{
+    color: blue;
+}
+pre{
+    text-decoration: none;
+    
+}a{
+    font-size: large;
+}
+a:visited{
+    color: blue;
+}a:hover{
+    font-size: larger;
+    color: black;
+}footer{
+    text-align: center;
+    padding-top: 10px;
+    height:55px;
+    margin: 100;
+    color: white;
+    background-color: black;
+    font-weight: 800;
+    font-size: large;
+    text-align-last: center;  
+}footer:hover{
+    color: #8AC6FF;
+    font-size: larger;
+}

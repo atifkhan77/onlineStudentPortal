@@ -1,0 +1,42 @@
+h2{
+    font-size: 40px;
+    text-shadow: 1px 1px grey;
+    text-align-last: center;
+    text-align: center;
+    padding: 70px;
+    background-color: #1B9CFC;
+    
+}.q{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.shop-sec{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+background-color: #8AC6FF;
+}/*
+.box{
+    height:100px;
+    width: 150px;
+    
+    
+    background-color: white;
+    padding: 15px 0px 15px;
+    margin-top: 5px;
+} */
+
+div.polaroid {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  }.polaroid:hover{
+    scale: 0.95;
+  }
+  
+  div.container {
+    padding: 10px;
+  }
